@@ -1,13 +1,13 @@
 cff-version: 1.0.1
 message: Please cite this software using these metadata.
-title: 
+title: BCI - Mobilidade&Saúde
 authors:
   - family-names: Furtado da Fonseca
     given-names: Bruna
   - family-names: Santos Belchior
     given-names: Marcella
-  - name-suffix: Professor
-  - affiliation: PUC Minas
+    name-suffix: Professor
+    affiliation: PUC Minas
   - family-names: Oliveira Batisteli
     given-names: João Pedro
 keywords:
