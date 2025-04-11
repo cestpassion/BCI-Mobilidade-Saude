@@ -7,8 +7,8 @@ authors:
   - family-names: Santos Belchior
     given-names: Marcella
   - name-suffix: Professor
-    affiliation: PUC Minas
-    family-names: Oliveira Batisteli
+  - affiliation: PUC Minas
+  - family-names: Oliveira Batisteli
     given-names: João Pedro
 keywords:
   - BCI ( Brain-Computer Interfaces )
