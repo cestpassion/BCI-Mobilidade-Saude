@@ -1,19 +1,15 @@
-# Nome do projeto
+# Interfaces Cérebro-Máquina: Transformando a Vida de Pessoas com Deficiências Físicas
 
-Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
+O objetivo deste projeto de pesquisa é explorar as aplicações das Interfaces Cérebro-Máquina, e como sua integração entre ciência, medicina e tecnologia pode
+melhorar a vida de pessoas com deficiências físicas.
 
 ## Alunos integrantes da equipe
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
+* Bruna Furtado da Fonseca
+* Marcella Santos Belchior
 
 ## Professores responsáveis
 
-* Nome do professor 1
-* Nome do professor 2
-* Nome do professor 3
-* Nome do professor 3
+* João Pedro Oliveira Batisteli
 
-## Instruções de Replicação/Reprodução
 
-Apresentar instruções de como o trabalho pode ser replicado/reproduzido quando for o caso.
