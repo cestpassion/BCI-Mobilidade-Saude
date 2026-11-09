@@ -1,21 +1,25 @@
-cff-version: 1.0.1
-message: Please cite this software using these metadata.
-title: "plmg-cc-ti3-2025-1-g30-bcimobilidade-saude"
+cff-version: 1.2.0
+message: Please cite the research article in preferred-citation when using this repository.
+title: "BCI-Mobilidade-Saude"
 authors:
   - family-names: Furtado da Fonseca
     given-names: Bruna
   - family-names: Santos Belchior
     given-names: Marcella
-    name-suffix: Professor
     affiliation: PUC Minas
-  - family-names: Oliveira Batisteli
-    given-names: João Pedro
 keywords:
-  - BCI ( Brain-Computer Interfaces )
-  - ICM (Interfaces Cérebro-Máquina)
+  - "BCI (Brain-Computer Interfaces)"
+  - "ICM (Interfaces Cérebro-Máquina)"
   - Mobilidade
   - Saúde
-repository-code: https://github.com/ICEI-PUC-Minas-CC-TI/plmg-cc-ti3-2025-1-g30-bcimobilidade-saude
+repository-code: https://github.com/cestpassion/BCI-Mobilidade-Saude
+preferred-citation:
+  type: article
+  title: "Interfaces Cérebro-Máquina: transformando a vida de pessoas com deficiências físicas"
+  authors:
+    - family-names: Furtado da Fonseca
+      given-names: Bruna
+    - family-names: Santos Belchior
+      given-names: Marcella
 license: CC-BY-4.0
 version: 1.0.0
-date-released: 2022-07-14

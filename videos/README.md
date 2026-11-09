@@ -1,3 +1,5 @@
-# Diretório para os vídeos
+# Vídeo
 
-Faça upload de todos os vídeos produzidos na disciplinas.
+- [Vídeo do pitch](video-pitch.mp4) — gravação de apresentação do projeto de pesquisa.
+
+[Voltar à página inicial](../README.md).
